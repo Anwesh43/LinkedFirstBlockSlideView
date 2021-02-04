@@ -1,0 +1,3 @@
+include ':firstblockslideview'
+include ':app'
+rootProject.name = "LinkedFirstBlockSlideView"
